@@ -1,0 +1,21 @@
+{
+    "name": "SweetGirl",
+    "displayName": "Sweet Girl",
+    "description": "Dark theme for sweet girls.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sweet Girl",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sweet Girl-color-theme.json"
+            }
+        ]
+    }
+}
